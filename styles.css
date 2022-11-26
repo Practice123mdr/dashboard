@@ -187,6 +187,9 @@ li {
     border-left: 7px #F0B429 solid;
     background-color: white;
     justify-self: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    
+  
 } 
 
 .left-card > * {
@@ -227,7 +230,7 @@ li {
     height: 310px;
     border-radius: 8px;
     margin-top: 24px;
-    
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .left-card-text {
@@ -281,6 +284,7 @@ li {
     height: 310px;
     border-radius: 8px;
     margin-top: 24px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .first-pp {
